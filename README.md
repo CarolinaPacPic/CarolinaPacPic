@@ -1,7 +1,7 @@
 <h1 align="center">Holi 👋, Soy Carolina Pacori</h1>
 <h3 align="center">Frontend developer de Perú</h3>
 
-- 🔭 Actualmente trabajo en [MD LINKS :)](https://github.com/CarolinaPacPic/DEV001-md-links)
+- 🔭 Actualmente trabajo en [Lab Notes :)](https://github.com/CarolinaPacPic/DEV001-LabNotes)
 
 - 👯 Puedes ver este trabajo colaborativo que hice [Data lovers Studio Ghibli](https://github.com/CarolinaPacPic/DEV001-data-lovers)
 
